@@ -14,4 +14,4 @@ Here's some sample projects I have worked on.
 |--|--|
 | [digital-design-agency](https://github.com/ZshanHaidar/digital-design-agency) | https://zshanhaidar.github.io/digital-design-agency/ |
 | [food-delievery](https://github.com/ZshanHaidar/food-delivery) | https://food-delievery.netlify.app/ OR https://zshanhaidar.github.io/food-delivery/ |
-
+| [travelwebsite](https://github.com/ZshanHaidar/travelwebsite) | https://zshanhaidar.github.io/travelwebsite/ |
