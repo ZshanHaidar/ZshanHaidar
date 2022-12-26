@@ -13,4 +13,5 @@ Here's some sample projects I have worked on.
 | Project | Deployment |
 |--|--|
 | [digital-design-agency](https://github.com/ZshanHaidar/digital-design-agency) | https://zshanhaidar.github.io/digital-design-agency/ |
+| [food-delievery](https://github.com/ZshanHaidar/food-delivery) | https://food-delievery.netlify.app/ |
 
