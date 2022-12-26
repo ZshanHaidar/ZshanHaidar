@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Hi, I'm Zeeshan Haidar.
 
 - 🔭 I’m currently working with React, javascript and typescript.
 - 🌱 I’m currently learning Nextjs.
