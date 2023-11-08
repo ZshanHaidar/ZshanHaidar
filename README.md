@@ -17,3 +17,4 @@ Here's some sample projects I have worked on.
 | [food-delievery](https://github.com/ZshanHaidar/food-delivery) | https://food-delievery.netlify.app/ OR https://zshanhaidar.github.io/food-delivery/ |  |
 | [travelwebsite](https://github.com/ZshanHaidar/travelwebsite) | https://zshanhaidar.github.io/travelwebsite/ |  |
 | [Data-Analytics](https://github.com/ZshanHaidar/Data-Analytics) | https://zshanhaidar.github.io/Data-Analytics/ |  | 
+|[Landing-Page](https://github.com/ZshanHaidar/LandingPage)| https://zshanhaidar.github.io/LandingPage/|  |
